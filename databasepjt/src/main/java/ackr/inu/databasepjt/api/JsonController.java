@@ -1,6 +1,7 @@
 package ackr.inu.databasepjt.api;
 
 
+import ackr.inu.databasepjt.dto.Crime;
 import ackr.inu.databasepjt.dto.Population;
 import ackr.inu.databasepjt.dto.Tax;
 import ackr.inu.databasepjt.dto.Traffic;
@@ -73,6 +74,7 @@ public class JsonController {
 //                crime.setYear(2013);
 //                crime.setTypeR(jsonObject.getString("범죄대분류"));
 //                crime.setTypeM(jsonObject.getString("범죄중분류"));
+//
 //
 //            }
 //
