@@ -1,5 +1,7 @@
 package ackr.inu.databasepjt.api;
 
+
+import ackr.inu.databasepjt.dto.Population;
 import ackr.inu.databasepjt.dto.Tax;
 import ackr.inu.databasepjt.dto.Traffic;
 import ackr.inu.databasepjt.model.DefaultRes;
@@ -23,11 +25,6 @@ public class JsonController {
 
     public JsonController(JsonService jsonService) {
         this.jsonService = jsonService;
-    }
-
-    @GetMapping("")
-    public String test(){
-        return "test";
     }
 
     @PostMapping("/traffic")
@@ -65,7 +62,31 @@ public class JsonController {
 
 //    @PostMapping("/crime")
 //    public ResponseEntity inputCrimeData(final String jsonData){
+//        List<Tax> cList = new LinkedList<>();
 //
+//        try{
+//            JSONArray arr = new JSONArray(jsonData);
+//            int list_cnt = arr.length();
+//            for (int i = 0; i < list_cnt; i++) {
+//                JSONObject jsonObject = arr.getJSONObject(i);
+//                Crime crime = new Crime();
+//                crime.setYear(2013);
+//                crime.setTypeR(jsonObject.getString("범죄대분류"));
+//                crime.setTypeM(jsonObject.getString("범죄중분류"));
+//
+//            }
+//
+//        }catch (Exception e){
+//            log.info(e.getMessage());
+//            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
+//        }
+//
+//        try{
+//            return new ResponseEntity<>(jsonService.saveTax(tList), HttpStatus.OK);
+//        }catch (Exception e){
+//            log.info(e.getMessage());
+//            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
+//        }
 //    }
 
     @PostMapping("/tax")
@@ -92,6 +113,45 @@ public class JsonController {
 
         try{
             return new ResponseEntity<>(jsonService.saveTax(tList), HttpStatus.OK);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @PostMapping("/pop")
+    public ResponseEntity inputPopulationData(@RequestBody final String jsonData){
+        List<Population> pList = new LinkedList<>();
+
+        try{
+            JSONArray arr = new JSONArray(jsonData);
+            int list_cnt = arr.length();
+
+            for (int i = 0; i < list_cnt; i++) {
+                JSONObject jsonObject = arr.getJSONObject(i);
+                Population population = new Population();
+                population.setCity(jsonObject.getString("행정구역별"));
+                population.setYear(jsonObject.getInt("연도별"));
+                population.setAge(jsonObject.getString("연령별"));
+                if(population.getAge().equals("평균연령")||population.getAge().equals("중위연령"))  continue;
+                population.setTotal(jsonObject.getInt("총인구"));
+                population.setTotal_out(jsonObject.getInt("총인구_외국인"));
+                population.setTotal_m(jsonObject.getInt("총인구_남자"));
+                population.setTotal_w(jsonObject.getInt("총인구_여자"));
+                population.setIn_m(jsonObject.getInt("내국인_남자"));
+                population.setIn_w(jsonObject.getInt("내국인_여자"));
+                population.setOut_m(jsonObject.getInt("외국인_남자"));
+                population.setOut_w(jsonObject.getInt("외국인_여자"));
+                population.setOut_per(jsonObject.getDouble("외국인비율"));
+                pList.add(population);
+            }
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+
+        try{
+            return new ResponseEntity<>(jsonService.savePopulation(pList), HttpStatus.OK);
         }catch (Exception e){
             log.info(e.getMessage());
             return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);

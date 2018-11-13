@@ -1,7 +1,9 @@
 package ackr.inu.databasepjt.service;
 
+import ackr.inu.databasepjt.dto.Population;
 import ackr.inu.databasepjt.dto.Tax;
 import ackr.inu.databasepjt.dto.Traffic;
+import ackr.inu.databasepjt.mapper.PopulationMapper;
 import ackr.inu.databasepjt.mapper.TaxMapper;
 import ackr.inu.databasepjt.mapper.TrafficMapper;
 import ackr.inu.databasepjt.model.DefaultRes;
@@ -20,11 +22,14 @@ public class JsonService {
 
     private TrafficMapper trafficMapper;
     private TaxMapper taxMapper;
+    private PopulationMapper populationMapper;
 
     public JsonService(final TrafficMapper trafficMapper,
-                       final TaxMapper taxMapper){
+                       final TaxMapper taxMapper,
+                       final PopulationMapper populationMapper){
         this.trafficMapper=trafficMapper;
         this.taxMapper=taxMapper;
+        this.populationMapper=populationMapper;
     }
 
     @Transactional
@@ -50,6 +55,22 @@ public class JsonService {
             for(int i=0;i<tList.size();i++) {
                 tax = tList.get(i);
                 taxMapper.save(tax);
+            }
+            return DefaultRes.res(StatusCode.CREATED, ResponseMessage.SAVE_JSON);
+        }catch (Exception e){
+            TransactionAspectSupport.currentTransactionStatus().setRollbackOnly();
+            log.error(e.getMessage());
+            return DefaultRes.res(StatusCode.DB_ERROR, ResponseMessage.DB_ERROR);
+        }
+    }
+
+    @Transactional
+    public DefaultRes savePopulation(final List<Population> pList){
+        try{
+            Population population;
+            for(int i=0;i<pList.size();i++) {
+                population = pList.get(i);
+                populationMapper.save(population);
             }
             return DefaultRes.res(StatusCode.CREATED, ResponseMessage.SAVE_JSON);
         }catch (Exception e){
