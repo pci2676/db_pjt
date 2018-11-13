@@ -8,7 +8,6 @@ public class Crime {
     private int year;           //발생년도
     private String typeR;       //범죄대분류
     private String typeM;       //범죄중분류
-    private String city;        //발생광역시
-    private String district;    //발생시
+    private String city;        //발생지
     private int event;          //발생수
 }

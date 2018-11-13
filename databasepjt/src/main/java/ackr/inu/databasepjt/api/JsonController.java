@@ -61,35 +61,36 @@ public class JsonController {
         }
     }
 
-//    @PostMapping("/crime")
-//    public ResponseEntity inputCrimeData(final String jsonData){
-//        List<Tax> cList = new LinkedList<>();
-//
-//        try{
-//            JSONArray arr = new JSONArray(jsonData);
-//            int list_cnt = arr.length();
-//            for (int i = 0; i < list_cnt; i++) {
-//                JSONObject jsonObject = arr.getJSONObject(i);
-//                Crime crime = new Crime();
-//                crime.setYear(2013);
-//                crime.setTypeR(jsonObject.getString("범죄대분류"));
-//                crime.setTypeM(jsonObject.getString("범죄중분류"));
-//
-//
-//            }
-//
-//        }catch (Exception e){
-//            log.info(e.getMessage());
-//            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
-//        }
-//
-//        try{
-//            return new ResponseEntity<>(jsonService.saveTax(tList), HttpStatus.OK);
-//        }catch (Exception e){
-//            log.info(e.getMessage());
-//            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
-//        }
-//    }
+    @PostMapping("/crime")
+    public ResponseEntity inputCrimeData(@RequestBody final String jsonData){
+        List<Crime> cList = new LinkedList<>();
+
+        try{
+            JSONArray arr = new JSONArray(jsonData);
+            int list_cnt = arr.length();
+            for (int i = 0; i < list_cnt; i++) {
+                JSONObject jsonObject = arr.getJSONObject(i);
+                Crime crime = new Crime();
+                crime.setYear(jsonObject.getInt("발생년도"));
+                crime.setTypeR(jsonObject.getString("범죄대분류"));
+                crime.setTypeM(jsonObject.getString("범죄중분류"));
+                crime.setCity(jsonObject.getString("도시"));
+                crime.setEvent(jsonObject.getInt("발생수"));
+                cList.add(crime);
+            }
+
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+
+        try{
+            return new ResponseEntity<>(jsonService.saveCrime(cList), HttpStatus.OK);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
 
     @PostMapping("/tax")
     public ResponseEntity inputTaxData(@RequestBody final String jsonData){
