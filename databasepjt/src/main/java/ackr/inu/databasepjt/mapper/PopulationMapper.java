@@ -2,10 +2,7 @@ package ackr.inu.databasepjt.mapper;
 
 import ackr.inu.databasepjt.dto.Population;
 import ackr.inu.databasepjt.dto.Tax;
-import org.apache.ibatis.annotations.Insert;
-import org.apache.ibatis.annotations.Mapper;
-import org.apache.ibatis.annotations.Options;
-import org.apache.ibatis.annotations.Param;
+import org.apache.ibatis.annotations.*;
 
 @Mapper
 public interface PopulationMapper {
@@ -15,4 +12,11 @@ public interface PopulationMapper {
     @Options(useGeneratedKeys = true, keyColumn = "population.idx")
     int save(@Param("population") final Population population);
 
+    //해당년도 입력받은 도시, 총 인구수 출력
+    @Select("SELECT total FROM population WHERE year=#{year} AND age='합계' AND city LIKE #{city}")
+    int total(@Param("year")final int year,@Param("city")final String city);
+
+    //해당년도 입력받은 도시, 연령대별 인구수 출력
+    @Select("SELECT total FROM population WHERE year=#{year} AND age='#{age}' AND city LIKE #{city}")
+    int selectedAgeTotal(@Param("year")final int year,@Param("city")final String city, @Param("age")final String age);
 }
