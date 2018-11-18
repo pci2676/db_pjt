@@ -1,10 +1,7 @@
 package ackr.inu.databasepjt.mapper;
 
 import ackr.inu.databasepjt.dto.Tax;
-import org.apache.ibatis.annotations.Insert;
-import org.apache.ibatis.annotations.Mapper;
-import org.apache.ibatis.annotations.Options;
-import org.apache.ibatis.annotations.Param;
+import org.apache.ibatis.annotations.*;
 
 @Mapper
 public interface TaxMapper {
@@ -13,4 +10,7 @@ public interface TaxMapper {
     @Options(useGeneratedKeys = true, keyColumn = "tax.idx")
     int save(@Param("tax") final Tax tax);
 
+
+    @Select("SELECT SUM(tax) FROM tax WHERE year = #{year} AND city LIKE #{city}")
+    double getTax(@Param("year")final int year,@Param("city")final String city);
 }
