@@ -45,8 +45,7 @@ public class JsonController {
                 traffic.setWeek(jsonObject.getString("요일"));
                 traffic.setDead(jsonObject.getInt("사망자수"));
                 traffic.setInjured(jsonObject.getInt("사상자수"));
-                traffic.setCity(jsonObject.getString("발생지시도"));
-                traffic.setDistrict(jsonObject.getString("발생지시군구"));
+                traffic.setCity(jsonObject.getString("발생지"));
                 tList.add(traffic);
             }
         } catch (Exception e) {
@@ -155,6 +154,17 @@ public class JsonController {
 
         try{
             return new ResponseEntity<>(jsonService.savePopulation(pList), HttpStatus.OK);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @GetMapping("/crimeRate")
+    public ResponseEntity inputCrimeRate(@RequestParam final int year, @RequestParam final String city){
+
+        try{
+            return new ResponseEntity<>(jsonService.saveCrimeRate(year,city), HttpStatus.OK);
         }catch (Exception e){
             log.info(e.getMessage());
             return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);

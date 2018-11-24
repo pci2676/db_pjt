@@ -12,10 +12,16 @@ public interface CrimeMapper {
     @Options(useGeneratedKeys = true, keyColumn = "crime.idx")
     int save(@Param("crime") final Crime crime);
 
-    //입력받은 도시의 종류에 따른 범죄 발생량을 보여준다.
-
     //입력받은 도시, 년도를 가지고 강력범죄와 폭력범죄의 합을 보여준다.
-    @Select("SELECT SUM(event) FROM crime WHERE year = #{year} AND city = #{city} AND typeR='강력범죄' OR year = #{year} AND city = #{city} AND typeR='폭력범죄'")
-    int countingCrime(@Param("year") int year, @Param("city") String city);
+    @Select("SELECT SUM(event) FROM crime WHERE year = #{year} AND city LIKE #{city} AND typeR='강력범죄' OR year = #{year} AND city LIKE #{city} AND typeR='폭력범죄'")
+    double countingCrime(@Param("year") int year, @Param("city") String city);
 
+    //도시이름
+    @Select("SELECT city FROM crime WHERE city LIKE #{city} LIMIT 1")
+    String cityName(@Param("city")final String city);
+
+    //시별 범죄율 저장하는 쿼리
+    @Insert("INSERT INTO crimeRate(year,city,crimeRate) VALUES(#{year},#{city},#{crimeRate})")
+    @Options(useGeneratedKeys = true, keyColumn = "crimeRate.idx")
+    int saveCrimeRate(@Param("year") final int year, @Param("city") final String city, @Param("crimeRate") final double crimeRate);
 }

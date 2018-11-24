@@ -11,6 +11,5 @@ public class Traffic {
     private String week;            //요일
     private int dead;               //사망자수
     private int injured;            //사상자수
-    private String city;            //발생지시도
-    private String district;        //발생지시군구
+    private String city;            //발생지시+군구
 }

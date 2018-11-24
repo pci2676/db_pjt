@@ -35,17 +35,6 @@ public class CrimeController {
         }
     }
 
-    //총 인구수 출력
-    @GetMapping("/population")
-    public ResponseEntity showPopulation(@RequestParam final int year, @RequestParam final String city,@RequestParam final String age){
-        try{
-            return new ResponseEntity<>(crimeService.getPopulation(year,city,age),HttpStatus.OK);
-        }catch (Exception e){
-            log.info(e.getMessage());
-            return new ResponseEntity<>(FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
-        }
-    }
-
     //범죄율 출력
     @GetMapping("/CrimeRate")
     public ResponseEntity showCrimeRate(@RequestParam final int year, @RequestParam final String city){

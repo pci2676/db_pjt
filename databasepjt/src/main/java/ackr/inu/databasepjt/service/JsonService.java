@@ -100,4 +100,18 @@ public class JsonService {
             return DefaultRes.res(StatusCode.DB_ERROR, ResponseMessage.DB_ERROR);
         }
     }
+
+    @Transactional
+    public DefaultRes saveCrimeRate(final int year, final String city){
+        try{
+            final double population = populationMapper.total(year, "%"+city+"%");
+            final double event = crimeMapper.countingCrime(year, "%"+city+"%");
+            final String fullCity = crimeMapper.cityName("%"+city+"%");
+            crimeMapper.saveCrimeRate(year,fullCity,event/population);
+            return DefaultRes.res(StatusCode.OK,ResponseMessage.SAVE_JSON);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return DefaultRes.res(StatusCode.DB_ERROR, ResponseMessage.DB_ERROR);
+        }
+    }
 }
