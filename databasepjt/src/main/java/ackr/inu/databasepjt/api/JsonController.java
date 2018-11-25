@@ -162,12 +162,31 @@ public class JsonController {
 
     @GetMapping("/crimeRate")
     public ResponseEntity inputCrimeRate(@RequestParam final int year, @RequestParam final String city){
-
         try{
             return new ResponseEntity<>(jsonService.saveCrimeRate(year,city), HttpStatus.OK);
         }catch (Exception e){
             log.info(e.getMessage());
             return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @PostMapping("/city")
+    public ResponseEntity inputCity(@RequestBody final String jsonData){
+        try{
+            return new ResponseEntity<>(jsonService.saveCity(jsonData),HttpStatus.OK);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES,HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @PostMapping("/suicide")
+    public ResponseEntity inputSuicide(@RequestBody final String jsonData){
+        try{
+            return new ResponseEntity<>(jsonService.saveSuicide(jsonData),HttpStatus.OK);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES,HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
 }
