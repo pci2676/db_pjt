@@ -1,9 +1,6 @@
 package ackr.inu.databasepjt.service;
 
-import ackr.inu.databasepjt.dto.Crime;
-import ackr.inu.databasepjt.dto.Population;
-import ackr.inu.databasepjt.dto.Tax;
-import ackr.inu.databasepjt.dto.Traffic;
+import ackr.inu.databasepjt.dto.*;
 import ackr.inu.databasepjt.mapper.*;
 import ackr.inu.databasepjt.model.DefaultRes;
 import ackr.inu.databasepjt.model.SuicideReq;
@@ -149,8 +146,28 @@ public class JsonService {
                 suicideReq.setYear(jsonObject.getInt("자살년도"));
                 suicideReq.setCity(jsonObject.getString("도시"));
                 suicideReq.setRate(jsonObject.getDouble("자살률"));
-                log.info(suicideReq.toString());
                 suicideMapper.save(suicideReq);
+            }
+            return DefaultRes.res(StatusCode.CREATED,ResponseMessage.SAVE_JSON);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return DefaultRes.res(StatusCode.DB_ERROR,ResponseMessage.DB_ERROR);
+        }
+    }
+
+    @Transactional
+    public DefaultRes saveTraffic2(final String jsonData){
+        try{
+            JSONArray arr = new JSONArray(jsonData);
+            int list_cnt = arr.length();
+            for (int i = 0; i < list_cnt; i++){
+                Traffic2 traffic2 = new Traffic2();
+                JSONObject jsonObject = arr.getJSONObject(i);
+                traffic2.setCity(jsonObject.getString("도시"));
+                traffic2.setDeath(jsonObject.getInt("사망자수"));
+                traffic2.setInjured(jsonObject.getInt("사상자"));
+                traffic2.setYear(jsonObject.getInt("년도"));
+                trafficMapper.save2(traffic2);
             }
             return DefaultRes.res(StatusCode.CREATED,ResponseMessage.SAVE_JSON);
         }catch (Exception e){
