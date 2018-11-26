@@ -2,6 +2,7 @@ package ackr.inu.databasepjt.service;
 
 import ackr.inu.databasepjt.dto.*;
 import ackr.inu.databasepjt.mapper.*;
+import ackr.inu.databasepjt.model.CctvReq;
 import ackr.inu.databasepjt.model.DefaultRes;
 import ackr.inu.databasepjt.model.SuicideReq;
 import ackr.inu.databasepjt.utils.ResponseMessage;
@@ -26,19 +27,22 @@ public class JsonService {
     final private CrimeMapper crimeMapper;
     final private CityMapper cityMapper;
     final private SuicideMapper suicideMapper;
+    final private CctvMapper cctvMapper;
 
     public JsonService(final TrafficMapper trafficMapper,
                        final TaxMapper taxMapper,
                        final PopulationMapper populationMapper,
                        final CrimeMapper crimeMapper,
                        final CityMapper cityMapper,
-                       final SuicideMapper suicideMapper){
+                       final SuicideMapper suicideMapper,
+                       final CctvMapper cctvMapper){
         this.trafficMapper=trafficMapper;
         this.taxMapper=taxMapper;
         this.populationMapper=populationMapper;
         this.crimeMapper=crimeMapper;
         this.cityMapper=cityMapper;
         this.suicideMapper=suicideMapper;
+        this.cctvMapper=cctvMapper;
     }
 
     @Transactional
@@ -175,4 +179,27 @@ public class JsonService {
             return DefaultRes.res(StatusCode.DB_ERROR,ResponseMessage.DB_ERROR);
         }
     }
+
+    @Transactional
+    public DefaultRes saveCctv(final String jsonData){
+        try{
+            JSONArray arr = new JSONArray(jsonData);
+            int list_cnt = arr.length();
+            for (int i = 0; i < list_cnt; i++){
+                CctvReq cctvReq = new CctvReq();
+                JSONObject jsonObject = arr.getJSONObject(i);
+                cctvReq.setCount(jsonObject.getInt("카메라대수"));
+                cctvReq.setPosition(jsonObject.getString("소재지지번주소"));
+                cctvReq.setLatitude(jsonObject.getDouble("위도"));
+                cctvReq.setLongitude(jsonObject.getDouble("경도"));
+                cctvReq.setPurpose(jsonObject.getString("설치목적구분"));
+                cctvMapper.save(cctvReq);
+            }
+            return DefaultRes.res(StatusCode.CREATED,ResponseMessage.SAVE_JSON);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return DefaultRes.res(StatusCode.DB_ERROR,ResponseMessage.DB_ERROR);
+        }
+    }
+
 }
