@@ -189,4 +189,24 @@ public class JsonController {
             return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES,HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
+
+    @PostMapping("/trafficAccident")
+    public ResponseEntity inputTraffic(@RequestBody final String jsonData){
+        try{
+            return new ResponseEntity<>(jsonService.saveTraffic2(jsonData),HttpStatus.OK);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES,HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @PostMapping("/cctv")
+    public ResponseEntity inputCctv(@RequestBody final String jsonData){
+        try{
+            return new ResponseEntity<>(jsonService.saveCctv(jsonData),HttpStatus.OK);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES,HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
 }
