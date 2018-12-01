@@ -169,7 +169,7 @@ public class JsonService {
                 JSONObject jsonObject = arr.getJSONObject(i);
                 traffic2.setCity(jsonObject.getString("도시"));
                 traffic2.setDeath(jsonObject.getInt("사망자수"));
-                traffic2.setInjured(jsonObject.getInt("사상자"));
+                traffic2.setInjured(jsonObject.getInt("사상자수"));
                 traffic2.setYear(jsonObject.getInt("년도"));
                 trafficMapper.save2(traffic2);
             }
