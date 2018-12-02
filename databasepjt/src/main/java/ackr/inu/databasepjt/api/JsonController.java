@@ -7,6 +7,8 @@ import ackr.inu.databasepjt.dto.Tax;
 import ackr.inu.databasepjt.dto.Traffic;
 import ackr.inu.databasepjt.model.DefaultRes;
 import ackr.inu.databasepjt.service.JsonService;
+import ackr.inu.databasepjt.utils.ResponseMessage;
+import ackr.inu.databasepjt.utils.StatusCode;
 import lombok.extern.slf4j.Slf4j;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -160,10 +162,17 @@ public class JsonController {
         }
     }
 
-    @GetMapping("/crimeRate")
-    public ResponseEntity inputCrimeRate(@RequestParam final int year, @RequestParam final String city){
+    @PostMapping("/crimeRate")
+    public ResponseEntity inputCrimeRate(@RequestBody String jsonData){
         try{
-            return new ResponseEntity<>(jsonService.saveCrimeRate(year,city), HttpStatus.OK);
+            JSONArray arr = new JSONArray(jsonData);
+            for(int i=0;i<arr.length();i++){
+                JSONObject jsonObject = arr.getJSONObject(i);
+                int year = jsonObject.getInt("년도");
+                String city = jsonObject.getString("도시");
+                jsonService.saveCrimeRate(year,city);
+            }
+            return new ResponseEntity<>(DefaultRes.res(StatusCode.CREATED, ResponseMessage.SAVE_JSON), HttpStatus.OK);
         }catch (Exception e){
             log.info(e.getMessage());
             return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES, HttpStatus.INTERNAL_SERVER_ERROR);

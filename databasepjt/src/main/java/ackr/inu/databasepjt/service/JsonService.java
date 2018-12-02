@@ -112,10 +112,10 @@ public class JsonService {
     @Transactional
     public DefaultRes saveCrimeRate(final int year, final String city){
         try{
-            final double population = populationMapper.total(year, "%"+city+"%");
-            final double event = crimeMapper.countingCrime(year, "%"+city+"%");
-            final String fullCity = crimeMapper.cityName("%"+city+"%");
-            crimeMapper.saveCrimeRate(year,fullCity,event/population);
+            final CrimeRateDto crimeRateDto = crimeMapper.crimeRateResponse(year,city);
+            final long city_idx = crimeRateDto.getCity_idx();
+            final double crimeRate=crimeRateDto.getEvent()/crimeRateDto.getTotal();
+            crimeMapper.saveCrimeRate(year,city_idx,crimeRate);
             return DefaultRes.res(StatusCode.OK,ResponseMessage.SAVE_JSON);
         }catch (Exception e){
             log.info(e.getMessage());
