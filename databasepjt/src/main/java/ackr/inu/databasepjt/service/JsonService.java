@@ -4,6 +4,7 @@ import ackr.inu.databasepjt.dto.*;
 import ackr.inu.databasepjt.mapper.*;
 import ackr.inu.databasepjt.model.CctvReq;
 import ackr.inu.databasepjt.model.DefaultRes;
+import ackr.inu.databasepjt.model.PubReq;
 import ackr.inu.databasepjt.model.SuicideReq;
 import ackr.inu.databasepjt.utils.ResponseMessage;
 import ackr.inu.databasepjt.utils.StatusCode;
@@ -28,6 +29,7 @@ public class JsonService {
     final private CityMapper cityMapper;
     final private SuicideMapper suicideMapper;
     final private CctvMapper cctvMapper;
+    final private PubMapper pubMapper;
 
     public JsonService(final TrafficMapper trafficMapper,
                        final TaxMapper taxMapper,
@@ -35,7 +37,8 @@ public class JsonService {
                        final CrimeMapper crimeMapper,
                        final CityMapper cityMapper,
                        final SuicideMapper suicideMapper,
-                       final CctvMapper cctvMapper){
+                       final CctvMapper cctvMapper,
+                       final PubMapper pubMapper){
         this.trafficMapper=trafficMapper;
         this.taxMapper=taxMapper;
         this.populationMapper=populationMapper;
@@ -43,6 +46,7 @@ public class JsonService {
         this.cityMapper=cityMapper;
         this.suicideMapper=suicideMapper;
         this.cctvMapper=cctvMapper;
+        this.pubMapper=pubMapper;
     }
 
     @Transactional
@@ -194,6 +198,28 @@ public class JsonService {
                 cctvReq.setLongitude(jsonObject.getDouble("경도"));
                 cctvReq.setPurpose(jsonObject.getString("설치목적구분"));
                 cctvMapper.save(cctvReq);
+            }
+            return DefaultRes.res(StatusCode.CREATED,ResponseMessage.SAVE_JSON);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return DefaultRes.res(StatusCode.DB_ERROR,ResponseMessage.DB_ERROR);
+        }
+    }
+
+    @Transactional
+    public DefaultRes savePub(final String jsonData){
+        try{
+            JSONArray arr = new JSONArray(jsonData);
+            int list_cnt = arr.length();
+            for (int i = 0; i < list_cnt; i++){
+                PubReq pubReq = new PubReq();
+                JSONObject jsonObject = arr.getJSONObject(i);
+                pubReq.setOpenDate(jsonObject.getInt("개업일"));
+                pubReq.setPubName(jsonObject.getString("업소명"));
+                pubReq.setStatus(jsonObject.getString("상태"));
+                String city = jsonObject.getString("대분류")+" "+jsonObject.getString("중분류");
+                pubReq.setCity(city);
+                pubMapper.save(pubReq);
             }
             return DefaultRes.res(StatusCode.CREATED,ResponseMessage.SAVE_JSON);
         }catch (Exception e){

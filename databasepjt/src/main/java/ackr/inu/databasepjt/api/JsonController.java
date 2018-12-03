@@ -218,4 +218,14 @@ public class JsonController {
             return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES,HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
+
+    @PostMapping("/pub")
+    public ResponseEntity inputPub(@RequestBody final String jsonData){
+        try{
+            return new ResponseEntity<>(jsonService.savePub(jsonData),HttpStatus.OK);
+        }catch (Exception e){
+            log.info(e.getMessage());
+            return new ResponseEntity<>(DefaultRes.FAIL_DEFAULT_RES,HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
 }
