@@ -1,0 +1,3669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">t_idx</Data></Cell>
+			<Cell><Data ss:Type="String">death</Data></Cell>
+			<Cell><Data ss:Type="String">injured</Data></Cell>
+			<Cell><Data ss:Type="String">city_idx</Data></Cell>
+			<Cell><Data ss:Type="String">year</Data></Cell>
+			<Cell><Data ss:Type="String">city</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">231</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 강릉시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">232</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 고성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">233</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 동해시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">234</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 삼척시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">235</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 속초시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">236</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 양구군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">237</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 양양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">238</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 영월군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">239</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 원주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">240</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 인제군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">241</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 정선군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">242</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 철원군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">243</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 춘천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">244</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 태백시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">245</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 평창군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">246</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 홍천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">247</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 화천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">248</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">강원 횡성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">249</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 가평군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">250</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+			<Cell><Data ss:Type="Number">111</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 고양시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">251</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 과천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">252</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 광명시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">253</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 광주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">254</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 구리시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">255</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 군포시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">256</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 김포시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">257</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 남양주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">258</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 동두천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">259</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 부천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">260</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 성남시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">261</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 수원시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">262</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 시흥시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">263</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 안산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">264</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 안성시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">265</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 안양시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">266</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 양주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">267</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 양평군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">268</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 여주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">269</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 연천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">270</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 오산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">271</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 용인시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">272</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 의왕시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">273</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 의정부시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">274</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 이천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">275</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 파주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">276</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="Number">107</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 평택시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">277</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 포천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">278</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 하남시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">279</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경기 화성시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">280</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 거제시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">281</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 거창군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">282</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 고성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">283</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 김해시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">284</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 남해군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">285</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 밀양시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">286</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 사천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">287</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 산청군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">288</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 양산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">289</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 의령군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">290</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 진주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">291</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 창녕군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">292</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 창원시(통합)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">293</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 통영시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">294</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 하동군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">295</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 함안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">296</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 함양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">297</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경남 합천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">298</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 경산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">299</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="Number">105</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 경주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">300</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 고령군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">301</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 구미시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">302</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 군위군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">303</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 김천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">304</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 문경시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">305</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 봉화군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">306</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 상주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">307</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 성주군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">308</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 안동시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">309</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 영덕군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">310</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 영양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">311</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 영주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">312</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 영천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">313</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 예천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">314</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 울진군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">315</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 의성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">316</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 청도군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">317</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 청송군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">318</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 칠곡군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">319</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">경북 포항시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">320</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">광주 광산구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">321</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">광주 남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">322</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">광주 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">323</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">광주 북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">324</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">광주 서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">325</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대구 남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">326</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대구 달서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">327</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대구 달성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">328</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대구 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">329</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대구 북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">330</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대구 서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">331</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대구 수성구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대구 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">333</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대전 대덕구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">334</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대전 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">335</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대전 서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">336</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대전 유성구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">337</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">대전 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">338</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 강서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">339</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 금정구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">340</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 기장군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">341</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">342</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">343</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 동래구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">344</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">345</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 사상구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">346</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 사하구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">347</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">348</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 수영구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">349</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 연제구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">350</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 영도구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">351</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">352</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 진구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">353</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">부산 해운대구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">354</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 강남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">355</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 강동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">356</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 강북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">357</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 강서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">358</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 관악구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">359</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 광진구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">360</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 구로구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">361</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 금천구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">362</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 노원구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">363</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 도봉구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">364</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 동대문구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">365</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 동작구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">366</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 마포구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">367</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 서대문구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">368</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 서초구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">369</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 성동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">370</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 성북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">371</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 송파구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">372</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 양천구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">373</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 영등포구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">374</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 용산구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">375</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 은평구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">376</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 종로구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">377</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">378</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">서울 중랑구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">379</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">세종 세종</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">380</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">울산 남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">381</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">울산 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">382</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">울산 북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">383</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">울산 울주군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">384</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">울산 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">385</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">인천 강화군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">386</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">인천 계양구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">387</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">인천 남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">388</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">인천 남동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">389</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">인천 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">390</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">인천 부평구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">391</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">인천 서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">392</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">인천 연수구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">393</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">인천 옹진군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">394</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">인천 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">395</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 강진군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">396</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 고흥군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">397</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 곡성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">398</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 광양시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">399</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 구례군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">400</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 나주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">401</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 담양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">402</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 목포시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">403</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 무안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">404</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 보성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">405</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 순천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">406</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 신안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">407</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 여수시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">408</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 영광군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">409</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 영암군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">410</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 완도군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">411</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 장성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">412</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 장흥군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">413</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 진도군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">414</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 함평군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">415</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 해남군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">416</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전남 화순군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">417</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 고창군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">418</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 군산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">419</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 김제시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">420</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 남원시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">421</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 무주군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">422</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 부안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">423</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 순창군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">424</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 완주군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">425</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 익산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">426</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 임실군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">427</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 장수군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">428</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 전주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">429</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 정읍시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">430</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">전북 진안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">431</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">제주 서귀포시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">432</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">제주 제주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">433</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 계룡시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">434</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 공주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">435</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 금산군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">436</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 논산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">437</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 당진시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">438</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 보령시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">439</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 부여군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">440</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 서산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">441</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 서천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">442</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 아산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">443</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 예산군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">444</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 천안시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">445</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 청양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">446</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 태안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">447</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충남 홍성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">448</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 괴산군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">449</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 단양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">450</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 보은군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">451</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 영동군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">452</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 옥천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">453</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 음성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">454</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 제천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">455</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 증평군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">456</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 진천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">457</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+			<Cell><Data ss:Type="Number">134</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 청주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">458</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">충북 충주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">459</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 강릉시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">460</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 고성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">461</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 동해시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">462</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 삼척시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">463</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 속초시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">464</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 양구군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">465</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 양양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">466</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 영월군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">467</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 원주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">468</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 인제군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">469</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 정선군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">470</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 철원군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">471</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 춘천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">472</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 태백시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">473</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 평창군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">474</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 홍천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">475</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 화천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">476</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">강원 횡성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">477</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 가평군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">478</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 고양시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">479</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 과천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">480</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 광명시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">481</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 광주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">482</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 구리시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">483</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 군포시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">484</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 김포시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">485</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 남양주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">486</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 동두천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">487</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 부천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">488</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 성남시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">489</Data></Cell>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 수원시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">490</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 시흥시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">491</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 안산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">492</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 안성시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">493</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 안양시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">494</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 양주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">495</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 양평군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">496</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 여주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">497</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 연천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">498</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 오산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">499</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="Number">111</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 용인시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">500</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 의왕시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">501</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 의정부시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">502</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 이천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">503</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 파주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">504</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 평택시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">505</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 포천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">506</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 하남시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">507</Data></Cell>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경기 화성시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">508</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 거제시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">509</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 거창군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">510</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 고성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">511</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 김해시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">512</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 남해군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">513</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 밀양시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">514</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 사천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">515</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 산청군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">516</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 양산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">517</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 의령군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">518</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 진주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">519</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 창녕군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">520</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="Number">103</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 창원시(통합)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">521</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 통영시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 하동군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">523</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 함안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">524</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 함양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">525</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경남 합천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">526</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 경산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">527</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 경주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">528</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 고령군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">529</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 구미시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">530</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 군위군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">531</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 김천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">532</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 문경시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">533</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 봉화군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">534</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 상주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">535</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 성주군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">536</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 안동시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">537</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 영덕군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">538</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 영양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">539</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 영주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">540</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 영천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">541</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 예천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">542</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 울릉군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">543</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 울진군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">544</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 의성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">545</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 청도군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">546</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 청송군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">547</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 칠곡군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">548</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">경북 포항시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">549</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">광주 광산구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">550</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">광주 남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">551</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">광주 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">552</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">광주 북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">553</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">광주 서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">554</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대구 남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">555</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대구 달서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">556</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대구 달성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">557</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대구 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">558</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대구 북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">559</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대구 서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">560</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대구 수성구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">561</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대구 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">562</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대전 대덕구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">563</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대전 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">564</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대전 서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">565</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대전 유성구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">566</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">대전 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">567</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 강서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">568</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 금정구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">569</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 기장군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">570</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">571</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">572</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 동래구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">573</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">574</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 사상구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">575</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 사하구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">576</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">577</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 수영구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">578</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 연제구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">579</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 영도구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">580</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">581</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 진구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">582</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">부산 해운대구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">583</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 강남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">584</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 강동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">585</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 강북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">586</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 강서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">587</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 관악구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">588</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 광진구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">589</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 구로구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">590</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 금천구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">591</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 노원구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">592</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 도봉구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">593</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 동대문구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">594</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 동작구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">595</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 마포구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">596</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 서대문구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">597</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 서초구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">598</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 성동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">599</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 성북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">600</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 송파구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">601</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 양천구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">602</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 영등포구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">603</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 용산구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">604</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 은평구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">605</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 종로구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">606</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">607</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">서울 중랑구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">608</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">세종 세종</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">609</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">울산 남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">610</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">울산 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">611</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">울산 북구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">612</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">울산 울주군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">613</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">울산 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">614</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">인천 강화군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">615</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">인천 계양구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">616</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">인천 남구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">617</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">인천 남동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">618</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">인천 동구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">619</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">인천 부평구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">620</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">인천 서구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">621</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">인천 연수구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">622</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">인천 옹진군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">623</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">인천 중구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">624</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 강진군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">625</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 고흥군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">626</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 곡성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">627</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 광양시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">628</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 구례군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">629</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 나주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">630</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 담양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">631</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 목포시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">632</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 무안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">633</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 보성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">634</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 순천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">635</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 신안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 여수시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">637</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 영광군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">638</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 영암군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">639</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 완도군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">640</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 장성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">641</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 장흥군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">642</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 진도군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">643</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 함평군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">644</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 해남군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">645</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전남 화순군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">646</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 고창군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">647</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 군산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">648</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 김제시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">649</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 남원시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">650</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 무주군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">651</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 부안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">652</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 순창군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">653</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 완주군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">654</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 익산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">655</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 임실군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">656</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 장수군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">657</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 전주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">658</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 정읍시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">659</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">전북 진안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">660</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">제주 서귀포시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">661</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">제주 제주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">662</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 공주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">663</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 금산군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">664</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 논산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">665</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 당진시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">666</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 보령시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">667</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 부여군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">668</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 서산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">669</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 서천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">670</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 아산시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">671</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 예산군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">672</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 천안시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">673</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 청양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">674</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 태안군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">675</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충남 홍성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">676</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 괴산군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">677</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 단양군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">678</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 보은군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">679</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 영동군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">680</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 옥천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">681</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 음성군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">682</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 제천시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">683</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 증평군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">684</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 진천군</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">685</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+			<Cell><Data ss:Type="Number">118</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 청주시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">686</Data></Cell>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">충북 충주시</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Row>
+			<Cell><Data ss:Type="String">idx</Data></Cell>
+			<Cell><Data ss:Type="String">year</Data></Cell>
+			<Cell><Data ss:Type="String">city_idx</Data></Cell>
+			<Cell><Data ss:Type="String">crimeRate</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">528</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007269793114195229</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">529</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007448616969856754</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">530</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0105818408167718</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">531</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">0.003628761231634551</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">532</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006452201153411552</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">533</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0062641644639530834</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">534</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006332786401636406</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">535</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00714044971282974</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">536</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006415957754781014</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">537</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00707272052439372</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">538</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006387687883991685</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">539</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">0.008363117521578822</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">540</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0069186614872631</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">541</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007542269765876857</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">542</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006642521107425806</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">543</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">0.008641536122510344</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">544</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007929024081115336</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">545</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00849581198053486</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">546</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005055560115223932</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">547</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005351016857344517</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">548</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">0.009162339251243849</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">549</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005699910690488771</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">550</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0076481125683364425</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">551</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007835628818529726</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">552</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005328859202042905</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">553</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">0.003931549381952626</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">554</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004190930396782348</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">555</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004386366643259141</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">556</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0052623261321313244</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">557</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007426687650745462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">558</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006177366292867256</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">559</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00391502856986631</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">560</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005056839856565194</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">561</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005904400220910822</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">562</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006734006734006734</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">563</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007467823820821399</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">564</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006873849446373999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">565</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006882735569397972</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">566</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">0.009150198975343651</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">567</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00896391745417336</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">568</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">0.008410870463659008</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">569</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="Number">0.008860593331583093</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">570</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">0.010416008292356116</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">571</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">0.008823020587048036</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">572</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005474538675727972</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">573</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0063055567719052415</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">574</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00704478436057872</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">575</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006174540353689695</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">576</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004091102295267781</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">577</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004557092160022143</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">578</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006070907468160481</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">579</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0057650477768018725</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">580</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0043799616753353405</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">581</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0019962539432176658</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">582</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005709364441740995</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">583</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005109719869984159</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">584</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006751231937017446</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">585</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0061011069056156105</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">586</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005610723119452932</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">587</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00619411559018932</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">588</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005682366566933694</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">589</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="Number">0.009840662949925048</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">590</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007750296614036689</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">591</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006870054292564508</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">592</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0006006862076338053</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">593</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005167493280873348</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">594</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005625440865271573</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">595</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005388763514722056</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">596</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005790607620124687</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">597</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006685991029678404</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">598</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005480334504081831</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">599</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004708581918311152</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">600</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00571457937201295</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">601</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004422821760283061</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">602</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005349249697345083</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">603</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006255562982795415</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">604</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005528948749829882</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">605</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007263514698967669</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">606</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0061713522215772814</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">607</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0047613454640730735</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">608</Data></Cell>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006629545144659697</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">609</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007215241199994508</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">610</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006779564849914425</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">611</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">0.009765215424218857</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">612</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0024401238681353143</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">613</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006199322150242396</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">614</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006961296336835718</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">615</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00640375790940337</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">616</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007550905825829429</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">617</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006582699695569711</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">618</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007344808270528747</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">619</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006593890743362104</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">620</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">0.008570161227195852</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">621</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0060306539730713956</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">622</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007307470780782988</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">623</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005937803721614491</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">624</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007971642791778507</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">625</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00906347511906717</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">626</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">0.009078557229580944</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">627</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004710763751763759</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">628</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0036718762053165066</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">629</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">0.009391157539305688</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">630</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005331756379746956</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">631</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007739431350542462</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">632</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007502634153684052</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">633</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005547369636813535</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">634</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0034349395334422354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">635</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005108565080923288</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">636</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0038390778800548118</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">637</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005419590942469513</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">638</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006444883566264599</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">639</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006171540061099274</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">640</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004590524635437489</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">641</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004846194915602283</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">642</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005894713772810189</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">643</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006830494980290114</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">644</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="Number">0.008085049085612162</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">645</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006631070522208174</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">646</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006214576911603858</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">647</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007964238002260817</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">648</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="Number">0.008076892760934175</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">649</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00869757908149133</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">650</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006678796960291127</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">651</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00951832277133482</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">652</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007998964162914155</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">653</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005739200492879315</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">654</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005793912724605794</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">655</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006840470624378957</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">656</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0058309037900874635</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">657</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="Number">0.003989713057723133</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">658</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005066174449200801</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">659</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005795035773562259</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">660</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00507620212621365</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">661</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00428182798641405</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">662</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0015034528450933924</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">663</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004927883147494535</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">664</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005247868338367478</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">665</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007003325398411804</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">666</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006204366256467024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">667</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005568260912797057</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">668</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005888271903998808</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">669</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005957113529293097</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">670</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="Number">0.011097009067984836</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">671</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007170488126504506</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">672</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006752326764384491</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">673</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0006804778466656586</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">674</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005671195313473763</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">675</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005908511852193417</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">676</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005512561473066219</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">677</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0058601134215500944</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">678</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006572508171146215</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">679</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005604702250192959</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">680</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0052532352241319346</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">681</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005016944987662411</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">682</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004171729445119482</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">683</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006136676732115275</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">684</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+			<Cell><Data ss:Type="Number">0.005342908438061041</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">685</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+			<Cell><Data ss:Type="Number">0.00582692031665765</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">686</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007400657990832644</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">687</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006098062248464067</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">688</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004764286039005319</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">689</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006441990704336623</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

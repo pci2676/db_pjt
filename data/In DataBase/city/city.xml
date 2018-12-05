@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">city_id</Data></Cell>
+			<Cell><Data ss:Type="String">city_name</Data></Cell>
+			<Cell><Data ss:Type="String">district_name</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">-1</Data></Cell>
+			<Cell><Data ss:Type="String">미지정</Data></Cell>
+			<Cell><Data ss:Type="String">미지정</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">서울특별시</Data></Cell>
+			<Cell><Data ss:Type="String">서울</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">인천광역시</Data></Cell>
+			<Cell><Data ss:Type="String">인천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">제주특별자치도</Data></Cell>
+			<Cell><Data ss:Type="String">제주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">세종특별자치시</Data></Cell>
+			<Cell><Data ss:Type="String">세종</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">대전광역시</Data></Cell>
+			<Cell><Data ss:Type="String">대전</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">광주광역시</Data></Cell>
+			<Cell><Data ss:Type="String">광주광역시</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">대구광역시</Data></Cell>
+			<Cell><Data ss:Type="String">대구</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">울산광역시</Data></Cell>
+			<Cell><Data ss:Type="String">울산</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">부산광역시</Data></Cell>
+			<Cell><Data ss:Type="String">부산</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">수원</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">성남</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">의정부</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">안양</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">부천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">광명</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">평택</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">동두천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">안산</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">고양</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">과천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">구리</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">남양주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">오산</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">시흥</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">군포</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">의왕</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">하남</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">용인</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">파주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">이천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">안성</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">김포</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">화성</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">광주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">양주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">포천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="String">경기</Data></Cell>
+			<Cell><Data ss:Type="String">여주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="String">강원</Data></Cell>
+			<Cell><Data ss:Type="String">춘천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="String">강원</Data></Cell>
+			<Cell><Data ss:Type="String">원주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="String">강원</Data></Cell>
+			<Cell><Data ss:Type="String">강릉</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="String">강원</Data></Cell>
+			<Cell><Data ss:Type="String">동해</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="String">강원</Data></Cell>
+			<Cell><Data ss:Type="String">태백</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="String">강원</Data></Cell>
+			<Cell><Data ss:Type="String">속초</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="String">강원</Data></Cell>
+			<Cell><Data ss:Type="String">삼척</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="String">충북</Data></Cell>
+			<Cell><Data ss:Type="String">충주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="String">충북</Data></Cell>
+			<Cell><Data ss:Type="String">제천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="String">충북</Data></Cell>
+			<Cell><Data ss:Type="String">청주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="String">충남</Data></Cell>
+			<Cell><Data ss:Type="String">천안</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="String">충남</Data></Cell>
+			<Cell><Data ss:Type="String">공주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="String">충남</Data></Cell>
+			<Cell><Data ss:Type="String">보령</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+			<Cell><Data ss:Type="String">충남</Data></Cell>
+			<Cell><Data ss:Type="String">아산</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="String">충남</Data></Cell>
+			<Cell><Data ss:Type="String">서산</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="String">충남</Data></Cell>
+			<Cell><Data ss:Type="String">논산</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="String">충남</Data></Cell>
+			<Cell><Data ss:Type="String">계룡</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="String">충남</Data></Cell>
+			<Cell><Data ss:Type="String">당진</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="String">전북</Data></Cell>
+			<Cell><Data ss:Type="String">전주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="String">전북</Data></Cell>
+			<Cell><Data ss:Type="String">군산</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="String">전북</Data></Cell>
+			<Cell><Data ss:Type="String">익산</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="String">전북</Data></Cell>
+			<Cell><Data ss:Type="String">정읍</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="String">전북</Data></Cell>
+			<Cell><Data ss:Type="String">남원</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+			<Cell><Data ss:Type="String">전북</Data></Cell>
+			<Cell><Data ss:Type="String">김제</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="String">전남</Data></Cell>
+			<Cell><Data ss:Type="String">목포</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+			<Cell><Data ss:Type="String">전남</Data></Cell>
+			<Cell><Data ss:Type="String">여수</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+			<Cell><Data ss:Type="String">전남</Data></Cell>
+			<Cell><Data ss:Type="String">순천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="String">전남</Data></Cell>
+			<Cell><Data ss:Type="String">나주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+			<Cell><Data ss:Type="String">전남</Data></Cell>
+			<Cell><Data ss:Type="String">광양</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+			<Cell><Data ss:Type="String">경북</Data></Cell>
+			<Cell><Data ss:Type="String">포항</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="String">경북</Data></Cell>
+			<Cell><Data ss:Type="String">경주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+			<Cell><Data ss:Type="String">경북</Data></Cell>
+			<Cell><Data ss:Type="String">김천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+			<Cell><Data ss:Type="String">경북</Data></Cell>
+			<Cell><Data ss:Type="String">안동</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+			<Cell><Data ss:Type="String">경북</Data></Cell>
+			<Cell><Data ss:Type="String">구미</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+			<Cell><Data ss:Type="String">경북</Data></Cell>
+			<Cell><Data ss:Type="String">영주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="String">경북</Data></Cell>
+			<Cell><Data ss:Type="String">영천</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+			<Cell><Data ss:Type="String">경북</Data></Cell>
+			<Cell><Data ss:Type="String">상주</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="String">경북</Data></Cell>
+			<Cell><Data ss:Type="String">문경</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+			<Cell><Data ss:Type="String">경북</Data></Cell>
+			<Cell><Data ss:Type="String">경산</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+			<Cell><Data ss:Type="String">경남</Data></Cell>
+			<Cell><Data ss:Type="String">창원</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+			<Cell><Data ss:Type="String">경남</Data></Cell>
+			<Cell><Data ss:Type="String">통영</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+			<Cell><Data ss:Type="String">경남</Data></Cell>
+			<Cell><Data ss:Type="String">김해</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="String">경남</Data></Cell>
+			<Cell><Data ss:Type="String">밀양</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="String">경남</Data></Cell>
+			<Cell><Data ss:Type="String">거제</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+			<Cell><Data ss:Type="String">기타도시</Data></Cell>
+			<Cell><Data ss:Type="String">기타</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+			<Cell><Data ss:Type="String">도시이외</Data></Cell>
+			<Cell><Data ss:Type="String">도시이외</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
